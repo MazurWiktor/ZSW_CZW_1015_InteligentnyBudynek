@@ -3,3 +3,5 @@
 Opis
 ----
 Projekt realizowany w ramach zajęć Zastosowania Systemów Wbudowanych na Politechnice Wrocławskiej
+
+cos pisze
