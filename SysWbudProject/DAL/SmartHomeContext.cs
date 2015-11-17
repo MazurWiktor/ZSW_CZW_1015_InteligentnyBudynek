@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Web;
-using SmartHome.Models;
+using SysWbudProject.Models;
 
-namespace SmartHome.DAL {
+namespace SysWbudProject.DAL
+{
     public class SmartHomeContext : DbContext {
 
         public SmartHomeContext() : base("SmartHomeContext") {

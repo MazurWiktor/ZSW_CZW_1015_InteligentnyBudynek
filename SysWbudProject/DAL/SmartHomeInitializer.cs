@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using SmartHome.Models;
+using SysWbudProject.Models;
 
-namespace SmartHome.DAL {
+namespace SysWbudProject.DAL
+{
     public class SmartHomeInitializer 
             : System.Data.Entity.DropCreateDatabaseIfModelChanges<SmartHomeContext>
     {

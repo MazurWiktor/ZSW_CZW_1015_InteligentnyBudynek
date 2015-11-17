@@ -5,7 +5,7 @@ using System.IO.Ports;
 using System.Linq;
 using System.Web;
 
-namespace SmartHome.SerialPorts
+namespace SysWbudProject.SerialPorts
 {
     public class SafeSerialPort : SerialPort
     {

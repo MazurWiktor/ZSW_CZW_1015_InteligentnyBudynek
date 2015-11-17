@@ -39,7 +39,7 @@ namespace SysWbudProject.Controllers
             Debug.WriteLine(state);
             try
             {
-                SmartHome.SerialPorts.SafeSerialPort serialPort = new SmartHome.SerialPorts.SafeSerialPort("COM4", 57600, Parity.None, 8);
+                SysWbudProject.SerialPorts.SafeSerialPort serialPort = new SysWbudProject.SerialPorts.SafeSerialPort("COM4", 57600, Parity.None, 8);
                 serialPort.Open();
                 ushort x = (ushort)id;
                 ushort y = (ushort)state;

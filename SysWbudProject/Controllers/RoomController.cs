@@ -7,7 +7,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using SysWbudProject.Models;
-using SmartHome.DAL;
+using SysWbudProject.DAL;
 
 namespace SysWbudProject.Controllers
 {
