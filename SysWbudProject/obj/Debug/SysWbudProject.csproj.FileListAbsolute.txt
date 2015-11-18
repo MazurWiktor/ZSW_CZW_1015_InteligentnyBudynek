@@ -38,3 +38,43 @@ c:\users\kamil sojka\documents\visual studio 2015\Projects\SysWbudProject\SysWbu
 c:\users\kamil sojka\documents\visual studio 2015\Projects\SysWbudProject\SysWbudProject\obj\Debug\SysWbudProject.csprojResolveAssemblyReference.cache
 c:\users\kamil sojka\documents\visual studio 2015\Projects\SysWbudProject\SysWbudProject\obj\Debug\SysWbudProject.dll
 c:\users\kamil sojka\documents\visual studio 2015\Projects\SysWbudProject\SysWbudProject\obj\Debug\SysWbudProject.pdb
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\roslyn\csc.exe
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\roslyn\vbc.exe
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\SysWbudProject.dll.config
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\SysWbudProject.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\SysWbudProject.pdb
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\Antlr3.Runtime.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\Newtonsoft.Json.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\System.Web.Helpers.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\System.Web.Mvc.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\System.Web.Optimization.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\System.Web.Razor.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\System.Web.WebPages.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\WebGrease.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\System.Web.Helpers.xml
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\System.Web.Mvc.xml
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\System.Web.Optimization.xml
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\System.Web.Razor.xml
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\System.Web.WebPages.xml
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\Antlr3.Runtime.pdb
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\bin\Newtonsoft.Json.xml
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\obj\Debug\SysWbudProject.csprojResolveAssemblyReference.cache
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\obj\Debug\SysWbudProject.dll
+C:\Users\wikto\git\ZSW_CZW_1015_InteligentnyBudynek\SysWbudProject\obj\Debug\SysWbudProject.pdb
