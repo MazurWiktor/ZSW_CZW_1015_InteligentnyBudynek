@@ -11,6 +11,10 @@ Celem  jest zaprojektowanie oraz stworzenie systemu umożliwiającego zarządzan
 -Aplikacja mobilna
 >  WPHONE\SmartHomeWP.sln
 
+-Schemat bazy danych
+
+> DATABASE\SmartHomeProjectModel.pdf
+
 ##Zaimplementowane funkcjonalności
 - tworzenie obiektów: budynek, piętro, pokój, urządzenie, telefon, użytkownik,
 edycja obiektów: budynek, piętro, pokój, urządzenie, telefon, użytkownik,
