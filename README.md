@@ -11,6 +11,13 @@ Celem  jest zaprojektowanie oraz stworzenie systemu umożliwiającego zarządzan
 - Aplikacja mobilna  
 > WPHONE\SmartHomeWP.sln
 
+- Kod źródłowy modułów arduino 
+> ARDUINO\Server.ino  
+ARDUINO\Dimmer.ino  
+ARDUINO\Switch.ino  
+ARDUINO\Temperature.ino  
+
+
 - Schemat bazy danych  
 > DATABASE\SmartHomeProjectModel.pdf
 
