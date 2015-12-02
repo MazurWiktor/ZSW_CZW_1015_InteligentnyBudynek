@@ -5,13 +5,13 @@ Projekt realizowany w ramach zajęć Zastosowania Systemów Wbudowanych na Polit
 Celem  jest zaprojektowanie oraz stworzenie systemu umożliwiającego zarządzanie komponentami inteligentnego budynku. Zadaniem automatyki budynkowej jest integrowanie instalacji występujących na obiekcie. System spaja wszystkie systemy w jedną całość, która pozwala efektywnie i w sposób oszczędny zarządzać całym obiektem z jednego miejsca oraz kontrolować parametry pracy poszczególnych urządzeń a także informować o problemach i awariach. Systemy te udostępniają zazwyczaj interfejs graficzny, który w czytelny sposób pozwala na podgląd parametrów pracy oraz zmianę wartości nastawionych. 
   
 ###Zawartość projektu
--Aplikacja webowa  
+- Aplikacja webowa  
 > SysWbudProject.sln  
 
--Aplikacja mobilna
+- Aplikacja mobilna
 >  WPHONE\SmartHomeWP.sln
 
--Schemat bazy danych
+- Schemat bazy danych
 
 > DATABASE\SmartHomeProjectModel.pdf
 
