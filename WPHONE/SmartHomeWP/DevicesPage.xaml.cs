@@ -36,6 +36,9 @@ namespace SmartHomeWP {
             this.InitializeComponent();
 
             this.NavigationCacheMode = NavigationCacheMode.Required;
+
+
+
         }
 
         class ControlTag {

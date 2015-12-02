@@ -30,7 +30,7 @@ namespace SmartHomeWP {
         private TransitionCollection transitions;
 
         public static HubConnection connection = new HubConnection("http://156.17.230.203:8080");
-  
+        //public static HubConnection connection = new HubConnection("http://192.168.1.119:8080");
         public static String serverAddress = "156.17.230.203";
         public const String hubName = "ControllHub";
 
