@@ -8,11 +8,10 @@ Celem  jest zaprojektowanie oraz stworzenie systemu umożliwiającego zarządzan
 - Aplikacja webowa  
 > SysWbudProject.sln  
 
-- Aplikacja mobilna
->  WPHONE\SmartHomeWP.sln
+- Aplikacja mobilna  
+> WPHONE\SmartHomeWP.sln
 
-- Schemat bazy danych
-
+- Schemat bazy danych  
 > DATABASE\SmartHomeProjectModel.pdf
 
 ##Zaimplementowane funkcjonalności
