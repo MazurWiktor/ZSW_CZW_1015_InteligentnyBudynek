@@ -161,5 +161,10 @@ namespace SmartHomeWP {
             App.connection.Start(new LongPollingTransport());
 
         }
+
+        private void AddressTextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }

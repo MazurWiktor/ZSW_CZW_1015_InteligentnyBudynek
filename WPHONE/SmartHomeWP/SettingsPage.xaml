@@ -16,7 +16,7 @@
             </TransitionCollection>
         </Grid.ChildrenTransitions>
 
-        <Grid Loaded="Grid_Loaded">
+        <Grid Loaded="Grid_Loaded" Margin="10,10,-10,-10">
             <Grid.RowDefinitions>
                 <RowDefinition Height="50"/>
                 <RowDefinition Height="1*"/>
@@ -24,8 +24,8 @@
             </Grid.RowDefinitions>
             <TextBlock TextWrapping="Wrap" Text="Smart Home Settings" VerticalAlignment="Center" FontSize="24" FontWeight="Bold" Margin="20,16,0,15.833"/>
             <Button x:Name="ReconnectButton" Content="Reconnect" HorizontalAlignment="Left" Margin="37,110.167,0,0" Grid.Row="1" VerticalAlignment="Top" Click="ReconnectButton_Click"/>
-            <TextBlock HorizontalAlignment="Left" Margin="37,34.167,0,0" Grid.Row="1" TextWrapping="Wrap" Text="IP address:" VerticalAlignment="Top" FontSize="16" SelectionChanged="TextBlock_SelectionChanged"/>
-            <TextBox x:Name="AddressTextBox" HorizontalAlignment="Left" Margin="37,65,0,0" Grid.Row="1" TextWrapping="Wrap" Text="192.168.1.119" VerticalAlignment="Top" Width="153"/>
+            <TextBlock HorizontalAlignment="Left" Margin="37,34.167,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Adres IP serwera :" VerticalAlignment="Top" FontSize="16"/>
+            <TextBox x:Name="AddressTextBox" HorizontalAlignment="Left" Margin="37,65,0,0" Grid.Row="1" TextWrapping="Wrap" Text="192.168.111.119" VerticalAlignment="Top" Width="153" TextChanged="AddressTextBox_TextChanged"/>
             <TextBlock x:Name="DisconnectedLabel" Grid.Row="2" TextWrapping="Wrap" Text="DISCONNECTED" FontSize="36" TextAlignment="Center" Foreground="#FFA41F1F" VerticalAlignment="Center"/>
         </Grid>
     </Grid>
